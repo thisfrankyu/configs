@@ -1,0 +1,57 @@
+<keymap version="1" name="frank-keymap" parent="Eclipse">
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="control F4" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+  <action id="Compare.LastVersion">
+    <keyboard-shortcut first-keystroke="shift control D" />
+  </action>
+  <action id="FindInPath" />
+  <action id="GotoClass" />
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift control T" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift control alt O" />
+    <keyboard-shortcut first-keystroke="shift control O" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="control BACK_SLASH" />
+    <keyboard-shortcut first-keystroke="shift control L" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="control alt O" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="control P" />
+  </action>
+  <action id="PopupHector" />
+  <action id="Print" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="control H" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift control BACK_SLASH" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift control alt H" />
+  </action>
+</keymap>
